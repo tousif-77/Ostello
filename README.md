@@ -1,0 +1,2 @@
+# Ostello
+Hostel Management System
